@@ -365,9 +365,9 @@ ul.nav-submenu li.submenuitem a, #mastLogin li.submenuitem a, #otherSiteTools li
  * if you do not have a logo you can eliminate it to save some room */
 #linkNav ul.topnav {
     list-style: none;
-   /* padding: 8px 0 5px 155px; */ /* matches the width of the toolMenu*/
-    padding-top: 11%;
-    padding-left: 15%;
+    padding: 139px 0px 5px 155px;/* matches the width of the toolMenu*/
+    /*padding-top: 11%;*/
+    /*padding-left: 15%;*/
     margin: 0;
     width: 100%;
     background: #fff url(images/logo.png) 30px 5px no-repeat;
